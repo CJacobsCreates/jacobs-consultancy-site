@@ -1,0 +1,14 @@
+{
+  "_readme": "Shopify starting prices (USD). Edit the numbers here, then run: node scripts/apply-prices.mjs  (it rewrites every price on the site, the FAQ and the chat assistant's answers). Then deploy.",
+  "currency": "USD",
+  "shopify": {
+    "launch": { "amount": 750 },
+    "growth": { "amount": 1800 },
+    "care":   { "amount": 60, "per": "mo" }
+  },
+  "faq": {
+    "id": "shopify-pricing",
+    "q": "How much does a Shopify store cost?",
+    "a": "Our Shopify packages have starting prices in US dollars. Launch is from {launch}: a new store on a premium theme with up to 25 products, payments, shipping and basic SEO. Growth is from {growth}: a custom-styled theme, up to 100 products, collections and filters, email capture and apps set up. Store care is from {care} for monthly updates, product uploads and fixes. Migrations from other platforms are quoted separately. Your Shopify plan, theme licence and any paid apps are billed to you directly by Shopify and the app makers. After a free call we send a written quote, so you know the exact cost before any work starts. See /shopify.html for details."
+  }
+}

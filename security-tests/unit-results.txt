@@ -1,0 +1,39 @@
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+chat reply blocked by output guard
+chat reply blocked by output guard
+chat reply blocked by output guard
+chat reply blocked by output guard
+CRLF in name cannot inject headers | PASS | subject="New enquiry: Website from Eve Bcc: victim@example.com X-Injected: 1"
+CRLF in email rejected | PASS | "email"
+U+2028/U+0085 in name flattened | PASS | "New enquiry: Website from Eve Bcc: v@x.com"
+HTML in fields escaped in email body | PASS | &lt;script&gt;alert(1)&lt;/script&gt;&quot;&
+Unknown need coerced to Other | PASS | New enquiry: Other from Eve
+Replayed Turnstile token rejected | PASS | 403 captcha_failed
+Token from foreign hostname rejected | PASS | 403 captcha_failed
+Missing token rejected | PASS | captcha
+Non-string JSON fields ignored | PASS | missing
+Redirect carries only an error code | PASS | https://thejacobsconsultancy.com/contact.html?error=missing#cpage
+Subject/name capped | PASS | 126
+File upload in a field is ignored | PASS | missing
+Confirmation sent to submitter after enquiry, reply-to info@ | PASS | to=eve@example.com reply_to=info@thejacobsconsultancy.com
+Confirmation never includes message, company or need | PASS | no submitted text found
+Confirmation: markup-y first name not rendered raw (falls back) | PASS | greeting=Hi there
+Confirmation greets by escaped first name | PASS | html has Hi D&#39;Arcy-Lee,
+First name capped at 50 chars, URL-like names rejected | PASS | ok
+Confirmation failure (5xx or network) still returns success/redirect to thanks | PASS | json=true redirect=https://thejacobsconsultancy.com/thanks.html net=true
+No confirmation if enquiry send fails or honeypot hit | PASS | enquiryFail calls=1 honeypot sent=0
+Output guard blocks client name | PASS | I can only help with questions about Jacobs Consultancy and 
+Output guard blocks prompt leak | PASS | I can only help with questions about Jacobs Consultancy and 
+Output guard blocks phone number | PASS | I can only help with questions about Jacobs Consultancy and 
+Output guard blocks banned tech | PASS | I can only help with questions about Jacobs Consultancy and 
+Normal answer passes guard | PASS | A simple website usually takes 1 to 3 weeks.
+History trimmed (turns + chars), roles coerced | PASS | messages=8 histChars=2700 max_tokens=300
+max_tokens capped at 300 | PASS | 300
+System prompt treats user text as data and refuses rule changes | PASS | rule 7 present
+Non-string message rejected | PASS | 400
+XFF/True-Client-IP spoofing does not reset the per-IP limit | PASS | 200,200,200,200,200,200,200,200,200,200,429,429
+Global daily cap holds across IPs | PASS | 200,200,200,429,429
+No KV -> AI never called unmetered | PASS | {"fallback":true}
+IPv6 rotation within one /64 shares a bucket | PASS | 200,200,200,200,200,200,200,200,200,200,429,429
+
+32/32 passed

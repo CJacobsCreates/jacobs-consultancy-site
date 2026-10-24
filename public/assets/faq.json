@@ -1,0 +1,119 @@
+[
+  {
+    "q": "What do you build?",
+    "a": "Websites, local SEO, Shopify stores, online shops and booking systems, custom web apps, client portals and quote tools, payment and subscription systems, AI chatbots and receptionists, workflow and marketing automation, cloud infrastructure, DevOps, custom SOP platforms, modernization of legacy systems, data dashboards, cost optimization, security, and hosting and care plans. If it runs on the web or in the cloud, we can usually help."
+  },
+  {
+    "q": "Can you set up online ordering or an online store?",
+    "a": "Yes. We build online ordering and e-commerce for restaurants, cafés, shops and other businesses: a clear menu or product catalogue, secure card payments, collection or delivery options, and orders sent straight to you by email, a dashboard or a kitchen screen. It is your own system, so you are not relying only on third-party apps. Quoted per project."
+  },
+  {
+    "id": "shopify-pricing",
+    "q": "How much does a Shopify store cost?",
+    "a": "Our Shopify packages have starting prices in US dollars. Launch is from $750: a new store on a premium theme with up to 25 products, payments, shipping and basic SEO. Growth is from $1,800: a custom-styled theme, up to 100 products, collections and filters, email capture and apps set up. Store care is from $60/mo for monthly updates, product uploads and fixes. Migrations from other platforms are quoted separately. Your Shopify plan, theme licence and any paid apps are billed to you directly by Shopify and the app makers. After a free call we send a written quote, so you know the exact cost before any work starts. See /shopify.html for details."
+  },
+  {
+    "q": "Do you build Shopify stores?",
+    "a": "Yes. We build new Shopify stores for small and medium brands: products and collections, a theme styled to your brand, payments, shipping and tax set up and tested. We also move stores over from other platforms such as WooCommerce, Wix or Squarespace, and offer monthly store care for updates, product uploads and fixes. We work with brands worldwide, priced in USD. See /shopify.html for packages and a concept store we built."
+  },
+  {
+    "q": "Can you build a booking or appointment system?",
+    "a": "Yes. We build online booking for salons, clinics, gyms, guesthouses, restaurants and service businesses: customers choose a service and time, can pay a deposit, and get automatic confirmations and reminders, while you manage everything from one calendar. Quoted per project."
+  },
+  {
+    "q": "Can you build something for my type of business?",
+    "a": "Most likely, yes. We build websites, apps and systems around how each business works, whether that is a restaurant, shop, practice, school or a company with several sites. Tell us what you have in mind through the contact form and we will reply within 1 business day with ideas and a quote."
+  },
+  {
+    "q": "Can you help us show up on Google?",
+    "a": "Yes. Our local SEO service covers Google Business Profile setup, on-page SEO, fast mobile-friendly pages and local listings. No one can honestly guarantee rankings, but we make sure search engines and customers can find and trust you."
+  },
+  {
+    "q": "How does pricing work?",
+    "a": "Every project is quoted individually, based on its size and what it needs to do. After a free call we send a clear written quote, so you know the cost before any work starts. There are no hidden extras."
+  },
+  {
+    "q": "How long does a project take?",
+    "a": "A simple website usually takes 1 to 3 weeks. Bigger web apps or platforms take longer, typically 4 to 12 weeks. We agree on a timeline up front and keep you updated as we go."
+  },
+  {
+    "q": "Do you work with international clients and different time zones?",
+    "a": "Yes. We work remotely with businesses around the world. We plan calls around your time zone and keep in touch by email, chat or video, whatever suits you."
+  },
+  {
+    "q": "How can I pay?",
+    "a": "We invoice per milestone and accept bank transfer, card payments and international options such as PayPal or Wise. We agree on what works for you when we send the quote."
+  },
+  {
+    "q": "Who owns the website or app?",
+    "a": "You do. Once the project is paid in full, the work we create for you is yours, including the design and code. We hand over everything you need."
+  },
+  {
+    "q": "Can you host it for me?",
+    "a": "Yes. Our Hosting & Care service covers managed hosting on Cloudflare, domain renewals, backups and small monthly updates. We can also work with the cloud provider you already use."
+  },
+  {
+    "q": "Do you offer maintenance plans?",
+    "a": "Yes. Our care plans cover updates, security, backups, small changes and support, so your site or app keeps running smoothly after launch."
+  },
+  {
+    "q": "Do you use AI?",
+    "a": "Yes, AI is one of our tools. It helps us work faster, but it never runs the show. Every line is designed, reviewed and tested by our engineers before it reaches you."
+  },
+  {
+    "q": "Can I make changes after launch?",
+    "a": "Of course. Small changes are covered by a care plan, or we can quote for bigger updates. We can also show you how to edit content yourself."
+  },
+  {
+    "q": "How do we get started?",
+    "a": "Send us a message or book a free call. We will talk through your goals, then send a clear proposal and quote. Once you approve it, we get to work."
+  },
+  {
+    "q": "Can you set up and run our cloud infrastructure?",
+    "a": "Yes. We design, set up and run cloud environments on AWS and Cloudflare, following AWS best practice. That covers hosting and servers, storage and databases, networking and DNS, scaling, backups and monitoring. We also add global delivery through a CDN, such as Amazon CloudFront or Cloudflare's edge, so your site loads quickly from servers close to each user. And we migrate old on-site servers or shared hosting to the cloud with minimal downtime."
+  },
+  {
+    "q": "What are deployment pipelines and DevOps?",
+    "a": "A deployment pipeline builds, tests and deploys every update automatically, with separate staging and live environments. Releases take one click and can be rolled back easily. Our DevOps work covers these CI/CD pipelines, automated testing, infrastructure setup, monitoring and alerts, uptime checks and incident response."
+  },
+  {
+    "q": "Do you build admin dashboards and data exports?",
+    "a": "Yes. We build admin dashboards with role-based access, so each person sees only what they should, plus one-click exports to CSV, Excel or PDF for management and accounting."
+  },
+  {
+    "q": "Can you build a custom SOP platform?",
+    "a": "Yes. We turn your standard operating procedures into step-by-step digital checklists, with sign-offs, photos, training records, audit trails and reporting. It works on phones and tablets in any industry, such as clinics, kitchens, construction sites, warehouses and factories."
+  },
+  {
+    "q": "Can you connect our tools and systems through APIs?",
+    "a": "Yes. We build API and plugin integrations: custom connections between the tools you already use, plugins or extensions for platforms like your website, store or CRM, payment, booking, CRM and accounting links, webhooks that react the moment something happens, and data syncing so information is entered once and stays consistent everywhere."
+  },
+  {
+    "q": "Can you modernise our old systems or outdated website?",
+    "a": "Yes. If you're running on old servers, legacy software or a stale website (say a WordPress site from around 2010 with ancient plugins, or software only one person knows how to run), we upgrade or rebuild it on a modern, supported setup. We migrate you off old servers to the cloud with your data intact, and cut over in phases with no downtime."
+  },
+  {
+    "q": "Can you reduce our cloud and software costs?",
+    "a": "Often, yes. We review your cloud, hosting and software bills line by line. Then we rightsize oversized servers, switch off unused services, consolidate overlapping tools and licences, and bring old systems up to date on fit-for-purpose setups such as Cloudflare or AWS. Budgets and alerts keep costs in check afterwards. We can only tell you how much you'd save once we've seen your setup."
+  },
+  {
+    "q": "Do you do data analytics and dashboards?",
+    "a": "Yes. We build live dashboards and KPI tracking from the data you already have, like spreadsheets, booking, accounting and operations systems. We also set up scheduled reports and alerts when something drifts off target."
+  },
+  {
+    "q": "How do you handle security?",
+    "a": "We set up secure cloud storage following AWS best practice. That includes least-privilege access with multi-factor sign-in, encryption in transit and at rest, backups with tested recovery, hardened websites and apps with security headers and monitoring, and POPIA-aware handling of personal information."
+  },
+  {
+    "q": "Do you work with larger organisations?",
+    "a": "Yes. For organisations with 50 or more people we build real-time operations dashboards, so you can see vehicles, equipment, stock and people across sites. We also build SOP and operations platforms, operations analytics, integrations with your existing systems, and the cloud, security and cost optimization behind them. Each engagement runs through discovery, an NDA if you want one, a scoped proposal, a phased build and ongoing support. Pricing is quoted per project. See the Enterprise page, or book an enterprise call through the contact form."
+  },
+  {
+    "q": "What is an outsourced Head of Technology?",
+    "a": "It gives you one point of contact for anything tech or online, like having a tech lead in-house without a full-time hire. That covers planning and budgeting, vendor and licence management, and oversight of your websites, systems, cloud and security. You get regular check-ins and direct contact when something needs attention."
+  },
+  {
+    "q": "Will you sign an NDA?",
+    "a": "Yes. We are happy to sign a non-disclosure agreement before you share sensitive details about your business or idea."
+  }
+]
